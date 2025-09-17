@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Merhaba, ben İlayda Yüksel  
 
-<!--
-**ilaydayuksel060-wq/ilaydayuksel060-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Uluslararası Ticaret & Finans mezunuyum, şu anda **Veri Bilimi** ve **Adli Bilim** kesişiminde araştırmalar yapmaya hazırlanıyorum.  
+📍 Hedefim Almanya’da yüksek lisans + doktora yapmak ve hem akademide hem de özel sektörde veri bilimi odaklı projeler geliştirmek.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 İlgi Alanlarım
+- 🌍 İklim değişikliği ve sürdürülebilirlik verileri  
+- 📊 Sosyal ekonomi ve veri bilimi  
+- 🧬 Adli bilimlerde dijital suçlar ve veri analizi  
+- 🤖 Makine öğrenmesi ve yapay zekâ  
+
+---
+
+## 📂 Portfolyo Projeleri
+- [🌡️ İklim Değişikliği Analizi](#) – *yakında*  
+- [📈 Sosyal Ekonomi & Veri Bilimi Çalışmaları](#) – *yakında*  
+- [🔍 Adli Veri Bilimi (Dijital Suçlar)](#) – *yakında*  
+
+---
+
+## 🛠️ Kullandığım Araçlar
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- Jupyter Notebook / Anaconda  
+- Git & GitHub  
+
+---
+
+## 📫 Bana Ulaşın
+- ✉️ E-posta: **[buraya mail adresini yazabilirsin]**  
+- 💼 LinkedIn: **[linkini ekle]**  
+
+---
+
+✨ *“Data is the new science. Big Data holds the answers.”* – Patrick Gelsinger
